@@ -40,7 +40,7 @@ do
 
 			v9 = math.ldexp;
 
-			v10 = getfenv or function()
+		
 
 				return _ENV;
 
